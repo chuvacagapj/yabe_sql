@@ -15,5 +15,7 @@ GET     /posts/{id}                             Application.show
 
 POST    /posts/{postId}/comments                Application.postComment
 
+GET     /captcha                                Application.captcha
+
 # Catch all
 *       /{controller}/{action}                  {controller}.{action}
