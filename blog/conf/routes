@@ -19,5 +19,8 @@ POST    /posts/{postId}/comments                Application.postComment
 
 GET     /captcha                                Application.captcha
 
+# El maravilloso CRUD
+*       /admin                                  module:crud
+
 # Catch all
 *       /{controller}/{action}                  {controller}.{action}
