@@ -3,12 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/jesus/Documentos/yabe_sql/blog/app/Bootstrap.java</file>
+            <file>file:/home/jesus/Documentos/yabe_sql/blog/app/views/Application/show.html</file>
+            <file>file:/home/jesus/Documentos/yabe_sql/blog/app/views/main.html</file>
             <file>file:/home/jesus/Documentos/yabe_sql/blog/test/BasicTest.java</file>
             <file>file:/home/jesus/Documentos/yabe_sql/blog/app/controllers/Application.java</file>
-            <file>file:/home/jesus/Documentos/yabe_sql/blog/test/data.yml</file>
+            <file>file:/home/jesus/Documentos/yabe_sql/blog/app/models/Tag.java</file>
+            <file>file:/home/jesus/Documentos/yabe_sql/blog/conf/routes</file>
+            <file>file:/home/jesus/Documentos/yabe_sql/blog/conf/initial-data.yml</file>
             <file>file:/home/jesus/Documentos/yabe_sql/blog/app/models/Post.java</file>
-            <file>file:/home/jesus/Documentos/yabe_sql/blog/app/views/Application/index.html</file>
+            <file>file:/home/jesus/Documentos/yabe_sql/blog/app/views/tags/display.html</file>
         </group>
     </open-files>
 </project-private>
