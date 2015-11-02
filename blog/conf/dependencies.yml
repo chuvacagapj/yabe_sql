@@ -4,3 +4,4 @@ require:
     - play
     - play -> crud
     - secure
+    - play -> cobertura 2.4
