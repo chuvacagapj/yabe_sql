@@ -13,6 +13,8 @@ import play.mvc.*;
  *
  * @author jesus
  */
+@Check("admin")
+@With(Secure.class)
 public class Posts extends CRUD{
 
 }

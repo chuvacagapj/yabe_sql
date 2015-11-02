@@ -9,5 +9,7 @@ package controllers;
 import play.*;
 import play.mvc.*;
 
-public class Comments extends CRUD {    
+@Check("admin")
+@With(Secure.class)
+public class Comments extends CRUD {
 }
